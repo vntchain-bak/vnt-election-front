@@ -1,2 +1,2 @@
 # vnt-election-front
-The Vntchain block producers election website
+The Vntchain block producers election website.
